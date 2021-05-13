@@ -1,4 +1,4 @@
-import Bmw7 from './Components/BMW7.png';
+import Bmw7 from './images/BMW7.png';
 import './App.css';
 import Address from "./Components/Address";
 import CompanyInfo from "./Components/CompanyInfo";
